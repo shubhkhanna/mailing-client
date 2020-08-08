@@ -11,4 +11,4 @@
 - Open your **Less secure apps option on** in your google account.
 - Run python main.py on your terminal.
 
-#### Hurray! Your mailing is all set.
+#### Hurray! Your mailing-client is all set.
